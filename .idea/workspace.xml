@@ -70,7 +70,7 @@
       <recent name="D:\JavaBasic042023" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Calculator">
+  <component name="RunManager" selected="Application.SinhVien">
     <configuration name="Calculator (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculator" />
       <module name="JavaBasic042023" />
@@ -106,8 +106,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.SinhVien" />
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.Calculator (1)" />
       </list>
     </recent_temporary>
