@@ -5,13 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb0afd06-4bff-41df-8887-ae91e36d4233" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java_OPP/src/BT_Java_OPP_1/ThongTin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JavaBasic042023.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JavaBasic042023.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasic/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasic/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasic/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasic/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasic/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasic/JavaBasic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasic/src/BaiTap/Bai4/VongLap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaiTap/Bai4/VongLap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasic/src/BaiTap/BaiTap1/SinhVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaiTap/BaiTap1/SinhVien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasic/src/BaiTap/BaiTap1/ThongTin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaiTap/BaiTap1/ThongTin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasic/src/BaiTap/BaiTap2/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaiTap/BaiTap2/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasic/src/BaiTap/BaiTap3/DieuKien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaiTap/BaiTap3/DieuKien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_OPP/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_OPP/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_OPP/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_OPP/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_OPP/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_OPP/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_OPP/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_OPP/Java_OPP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_OPP/src/BT_Java_OPP_1/NhanVien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_OPP/src/BT_Java_OPP_1/ThongTin.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,13 +55,63 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Quyen-Auto/JavaBasic042023&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/JavaBasic042023",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaBasic042023" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="Calculator (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculator" />
+      <module name="JavaBasic042023" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaiTap.BaiTap2.Calculator" />
+      <module name="JavaBasic042023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaiTap.BaiTap2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SinhVien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaiTap.BaiTap1.SinhVien" />
+      <module name="JavaBasic042023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaiTap.BaiTap1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.SinhVien" />
+        <item itemvalue="Application.Calculator (1)" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
